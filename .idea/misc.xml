@@ -1,0 +1,12 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/felip/AndroidStudioProjects/Splash/app/src/main/res/drawable/ic_baseline_pregnant_woman_24.xml" value="0.201" />
+        <entry key="..\:/Users/felip/AndroidStudioProjects/Splash/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/felip/AndroidStudioProjects/Splash/app/src/main/res/layout/activity_splash.xml" value="0.1490036231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK" />
+</project>
